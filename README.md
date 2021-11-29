@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlackLuster13
 - 👀 I’m interested in ripping streaming sites
-- 🌱 I’m currently learning on ripping manga and music
+- 🌱 I’m currently learning on ripping manga and music but Im learning into ripping streaming sites
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://nyaa.si/user/BlackLuster
 
