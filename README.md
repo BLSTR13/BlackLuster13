@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BlackLuster13
-- 👀 I’m interested in ripping streaming sites
-- 🌱 I’m currently learning on ripping manga and music and some videos on streaming sites but Im learning into ripping streaming drm protected sites
+- 👀 I’m interested in 
+- 🌱 I’m currently learning on 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://nyaa.si/user/BlackLuster
+- 📫 How to reach me 
 
 <!---
 BlackLuster13/BlackLuster13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
